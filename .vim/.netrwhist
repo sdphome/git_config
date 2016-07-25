@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/c_dshao/AutoMake/LA.BR.1.2.7/vendor/qcom/proprietary/mm-camera/mm-camera2/media-controller/modules/sensors/chromatix/0301/libchromatix/chromatix_ov8856_f8v05a/zsl'
+let g:netrw_dirhist_2='/home/c_dshao/AutoMake/LA.BR.1.2.7/vendor/qcom/proprietary/mm-camera/mm-camera2/media-controller/modules/sensors/chromatix/0301/libchromatix/chromatix_ov8856_f8v05a'
+let g:netrw_dirhist_3='/home/c_dshao/AutoMake/LA.BR.1.2.7/vendor/qcom/proprietary/mm-camera/mm-camera2/media-controller/modules/sensors/sensor_libs/ov8856_f8v05a'
+let g:netrw_dirhist_4='/home/c_dshao/AutoMake/LA.BR.1.2.7/vendor/qcom/proprietary/mm-camera/mm-camera2/media-controller/modules/sensors/chromatix/0301/libchromatix/chromatix_ov5675_d5v15b'
+let g:netrw_dirhist_5='/home/c_dshao/AutoMake/LA.BR.1.2.7/vendor/qcom/proprietary/mm-camera/mm-camera2/media-controller/modules/sensors/chromatix/0301/libchromatix/chromatix_ov5675_d5v15b/common'
+let g:netrw_dirhist_6='/home/c_dshao/AutoMake/LA.BR.1.2.7/vendor/qcom/proprietary/mm-camera/mm-camera2/media-controller/modules/sensors/sensor_libs/ov5675_d5v15b'
+let g:netrw_dirhist_7='/home/c_dshao/AutoMake/LA.BR.1.2.7/vendor/qcom/proprietary/mm-camera/mm-camera2/media-controller/modules/sensors/sensor_libs/ov8856_f8v05a'
